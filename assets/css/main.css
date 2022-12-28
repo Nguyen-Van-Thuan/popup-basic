@@ -27,8 +27,10 @@ body {
     background-color: green;
     position: absolute;
     right: 0;
-    bottom: 80px;
+    bottom: -520px;
     border-radius: 12px;
+    /* display: none; */
+    transition: .5s;
 }
 .close {
     position: absolute;
